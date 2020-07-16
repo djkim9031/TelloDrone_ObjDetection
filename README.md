@@ -28,4 +28,6 @@ x: move downward by 20cm
 
 
 
-keyboard inputs are listened in the while loop in main; while motion control & vision camera are processed in the background as threads
+keyboard inputs are listened in the while loop in main; while motion control & vision camera are processed in the background as threads.
+
+YOLOv3 weight file is available at https://pjreddie.com/darknet/yolo/
